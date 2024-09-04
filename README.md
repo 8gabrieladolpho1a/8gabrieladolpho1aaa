@@ -2,7 +2,6 @@ Bom dia, Boa tarde, Boa noite, seja bem vindo(a) nessa aventura que é conhecer 
 
 **Gabriel**
 Estou estudando na [Alura](https://www.alura.com.br/)
-
 Nascido em 2009, junho.
 Gosto de comer
 Catolico
